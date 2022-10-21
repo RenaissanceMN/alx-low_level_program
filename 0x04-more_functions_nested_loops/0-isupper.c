@@ -1,7 +1,8 @@
+#include "isupper"
 #include <stdio.h>
 
 /**
- *main - check the code.
+ *isupper - check the code.
  *
  *Return: Always 0.
  */
