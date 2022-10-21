@@ -1,4 +1,3 @@
-#include "isupper.h"
 #include <stdio.h>
 
 /**
