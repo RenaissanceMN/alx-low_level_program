@@ -8,7 +8,7 @@ int main(void)
 	
 	x = 10;
 
-	foo(x);
+	add(x);
 
 	printf("%d\n", x);
 
