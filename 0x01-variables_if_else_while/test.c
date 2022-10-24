@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int add(int)
+int add(int);
 
 int main(void)
 {
