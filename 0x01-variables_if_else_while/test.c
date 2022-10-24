@@ -3,11 +3,14 @@
 int add(int)
 
 int main(void)
-{	int x;
+{
+	int x;
 	
-	x = 10
+	x = 10;
+
 	foo(x);
-	printf("%d\n", x)
+
+	printf("%d\n", x);
 
 	return (0);
 }
